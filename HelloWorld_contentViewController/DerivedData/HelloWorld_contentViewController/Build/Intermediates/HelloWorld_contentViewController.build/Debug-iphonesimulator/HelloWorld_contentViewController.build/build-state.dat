@@ -1,0 +1,740 @@
+THelloWorld_contentViewController
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld
+cProcessPCH /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController normal i386
+cCopyStringsFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj/InfoPlist.strings HelloWorld_contentViewController/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/Images.xcassets
+cProcessInfoPlistFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist
+cGenerateDSYMFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController
+cTouch /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000534266FC00000000000003B4
+t1396860668
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053426708000000000000019E
+t1396860680
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005342670C000000000058E0E0
+t1396860684
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000005342670D00000000006CED60
+t1396860685
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005342670D00000000005B82F0
+t1396860685
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005342670C0000000000446820
+t1396860684
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005342670D00000000003599D0
+t1396860685
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005342670D00000000002FC3B0
+t1396860685
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005342670D000000000004B000
+t1396860685
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005342670E000000000088D8C0
+t1396860686
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000534267100000000000799E30
+t1396860688
+s7970352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000534267110000000000037680
+t1396860689
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053426712000000000048F720
+t1396860690
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053426712000000000013FD70
+t1396860690
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000534267160000000001F1DE10
+t1396860694
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005342672E00000000002BC360
+t1396860718
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005342673C0000000000002338
+t1396860732
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005342673D000000000008D370
+t1396860733
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005342673D0000000000392E20
+t1396860733
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000051B1739B00000000000121D0
+t1370583963
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005342673D0000000000014A80
+t1396860733
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005342673D0000000000033BA0
+t1396860733
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005342673D000000000001CFB0
+t1396860733
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005342673D000000000001B2B0
+t1396860733
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005342673D00000000000C9570
+t1396860733
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005342673D0000000000063280
+t1396860733
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005342673D0000000000008880
+t1396860733
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005342673D0000000000015080
+t1396860733
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005342673D00000000000230F0
+t1396860733
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005342673D000000000000E380
+t1396860733
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005342673D0000000000089380
+t1396860733
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005342673D0000000000017320
+t1396860733
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005342673D0000000000039CD0
+t1396860733
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005342673D000000000000B0B0
+t1396860733
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005342673D0000000000167E80
+t1396860733
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005342673D00000000000106A0
+t1396860733
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005342673D000000000001CE40
+t1396860733
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005342673D00000000000740C0
+t1396860733
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005342673D000000000006CA60
+t1396860733
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005342673D000000000001BAD0
+t1396860733
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005342673D0000000000084A20
+t1396860733
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534267700000000000000ADC
+t1396860784
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053426770000000000000514C
+t1396860784
+s20812
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o
+t1401179355
+s78964
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o
+t1401182318
+s49376
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/HelloWorld_contentViewController.LinkFileList
+c0000000053844CDB0000000000000568
+t1401179355
+s1384
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o
+t1401182318
+s68964
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o
+t1401184074
+s48648
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o
+t1401178311
+s3724
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_dependencies.txt
+t1401178313
+s717
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_generated_info.plist
+t1401178313
+s525
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch
+t1401178311
+s119360
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app
+t1401184074
+s306
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM
+t1401182318
+s102
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController
+t1401184074
+s46936
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd
+t1401178309
+s170
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist
+t1401178313
+s1056
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/PkgInfo
+t1401178313
+s8
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj/InfoPlist.strings
+t1401178311
+s42
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.h
+c000000005384487600000000000002D1
+t1401178230
+s721
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m
+c00000000538448D60000000000001B12
+t1401178326
+s6930
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.h
+c00000000538449B800000000000000FA
+t1401178552
+s250
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m
+c000000005384546E000000000000054A
+t1401181294
+s1354
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist
+c000000005384480A000000000000048F
+t1401178122
+s1167
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch
+c000000005384480A000000000000017A
+t1401178122
+s378
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld
+c000000005384480A0000000000000088
+t1401178122
+s136
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/Images.xcassets
+c000000005384480A0000000000000088
+t1401178122
+s136
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.h
+c000000005384582A00000000000001B8
+t1401182250
+s440
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m
+c00000000538458670000000000001562
+t1401182311
+s5474
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.h
+c000000005384483500000000000000EC
+t1401178165
+s236
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m
+c0000000053845F390000000000000776
+t1401184057
+s1910
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/en.lproj/InfoPlist.strings
+c000000005384480A000000000000002D
+t1401178122
+s45
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m
+c000000005384480A0000000000000166
+t1401178122
+s358
+
+N/usr/lib/libSystem.B.dylib
+c0000000051B17388000000000000D2A0
+t1370583944
+s53920
+
+N/usr/lib/system/libcache.dylib
+c0000000051B1739B0000000000013870
+t1370583963
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000051B173760000000000030250
+t1370583926
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000051B173880000000000017910
+t1370583944
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000051B1739A000000000001A130
+t1370583962
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c0000000051B1739A000000000000C2A0
+t1370583962
+s49824
+
+N/usr/lib/system/libdyld.dylib
+c0000000051B1739B00000000000121D0
+t1370583963
+s74192
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000051B1739A0000000000008CE0
+t1370583962
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c0000000051B1739B000000000001D350
+t1370583963
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c0000000051B173990000000000014F90
+t1370583961
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000051B1739D000000000000D790
+t1370583965
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c0000000051B1739D000000000000C330
+t1370583965
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000051B1739B000000000000A080
+t1370583963
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052281DC000000000001F91C0
+t1378360768
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000051B1739C000000000001BC00
+t1370583964
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000051B17388000000000008B580
+t1370583944
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052725DFB00000000000569B0
+t1383226875
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000051B173880000000000070540
+t1370583944
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000051B173880000000000025620
+t1370583944
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000051B17390000000000000C780
+t1370583952
+s51072
+
+N/usr/lib/system/libunc.dylib
+c0000000051B17394000000000000D430
+t1370583956
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000051B1739B000000000001BAA0
+t1370583963
+s113312
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m
+r0
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m
+r0
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m
+r0
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m
+r0
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies257af1c99634b941^90d901ca9634b941^---0#1#1#--18"Check dependencies36"C7FB4505-23E1-40B6-A2AB-64242E14DDA8-
+
+CCompileAssetCatalog /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/Images.xcassets
+s422871111.473466
+e422871113.033054
+r1
+xCompileAssetCatalog
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/LaunchImage-700-568h@2x.png
+o/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Assets.car
+o/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection187"CompileAssetCatalog DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app HelloWorld_contentViewController/Images.xcassets187"CompileAssetCatalog DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app HelloWorld_contentViewController/Images.xcassetsce4f79478034b941^f7016c498034b941^-745"/* com.apple.actool.compilation-results *//Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/LaunchImage-700-568h@2x.png/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Assets.car/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@140"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/Images.xcassets/0000000000000000^1698"CompileAssetCatalog DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app HelloWorld_contentViewController/Images.xcassets    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/Images.xcassets36"DAFF2EB0-C81B-4386-B281-DF3554636B71-
+bC8E9BDE5-68E8-460A-8392-4C336194930D
+
+CCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422872155.291577
+e422872155.927724
+r1
+xCompileC
+xDerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.h
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m322"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o HelloWorld_contentViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler04c64a5b8434b941^e97fed5b8434b941^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m0000000000000000^5478"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o HelloWorld_contentViewController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o36"8D1834D1-7BFB-4249-B021-466B3E3B2F39-
+b1ADA3FBE-707B-41F3-9071-E2AE211616C0
+
+CCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422875118.119955
+e422875118.608670
+r1
+xCompileC
+xDerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m342"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o HelloWorld_contentViewController/ControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd6e31eee8f34b941^89d19bee8f34b941^---0#0#1#-19%DVTDocumentLocation2@147"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m0000000000000000^5538"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o HelloWorld_contentViewController/ControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o36"92F5A1F5-4C4B-4ED1-A9D1-250782558D33-
+b470A84EB-6B98-4DE1-A3C6-1D4BECEDDA40
+
+CCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422875118.119960
+e422875118.614752
+r1
+xCompileC
+xDerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m338"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o HelloWorld_contentViewController/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36e51eee8f34b941^70619dee8f34b941^---0#0#1#-19%DVTDocumentLocation2@145"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m0000000000000000^5526"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o HelloWorld_contentViewController/TableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o36"AA316CC4-12F1-4A18-948C-BAFF81CC3F16-
+b470A84EB-6B98-4DE1-A3C6-1D4BECEDDA40
+
+CCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422876874.013226
+e422876874.525159
+r1
+xCompileC
+xDerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.h
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/TableViewController.h
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ControlViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m328"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o HelloWorld_contentViewController/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilered8003ca9634b941^bd7186ca9634b941^---0#0#1#-19%DVTDocumentLocation2@140"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m0000000000000000^5496"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o HelloWorld_contentViewController/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o36"43DC90AA-0633-4600-9851-945E7F966CBA-
+b76B76BAA-1FE8-48D5-82C3-45E25077BF9A
+
+CCompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422871111.114802
+e422871111.281842
+r1
+xCompileC
+xDerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/AppDelegate.h
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m308"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o HelloWorld_contentViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c981d478034b941^522748478034b941^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m0000000000000000^5436"CompileC DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o HelloWorld_contentViewController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/main.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o36"65037114-546A-4784-8B22-6F212A71E2CA-
+bC8E9BDE5-68E8-460A-8392-4C336194930D
+
+CCopyStringsFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj/InfoPlist.strings HelloWorld_contentViewController/en.lproj/InfoPlist.strings
+s422871111.473499
+e422871111.477283
+r1
+xCopyStringsFile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj/InfoPlist.strings
+xHelloWorld_contentViewController/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy HelloWorld_contentViewController/en.lproj/InfoPlist.strings221"CopyStringsFile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj/InfoPlist.strings HelloWorld_contentViewController/en.lproj/InfoPlist.strings7f4e79478034b941^ec307a478034b941^---0#0#1#-19%DVTDocumentLocation2@150"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/en.lproj/InfoPlist.strings0000000000000000^855"CopyStringsFile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj/InfoPlist.strings HelloWorld_contentViewController/en.lproj/InfoPlist.strings    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/en.lproj -- HelloWorld_contentViewController/en.lproj/InfoPlist.strings36"BC45530B-03B2-486A-8F5F-4A0FDAE55905-
+bC8E9BDE5-68E8-460A-8392-4C336194930D
+
+CDataModelVersionCompile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld
+s422871109.171297
+e422871109.647662
+r1
+xDataModelVersionCompile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection259"DataModelVersionCompile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld259"DataModelVersionCompile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeldd3f62b458034b941^07cea5458034b941^---0#0#1#-19%DVTDocumentLocation2@170"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld/0000000000000000^1279"DataModelVersionCompile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -XD_MOMC_IOS_TARGET_VERSION=7.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController.xcdatamodeld /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController.momd36"72BE1169-AC22-46BE-99C3-C4132A185285-
+bC8E9BDE5-68E8-460A-8392-4C336194930D
+
+CGenerateDSYMFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController
+s422876874.726143
+e422876874.781902
+r1
+xGenerateDSYMFile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection207"Generate /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM292"GenerateDSYMFile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewControlleracfdb9ca9634b941^382dc8ca9634b941^---0#0#1#-19%DVTDocumentLocation2@215"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM/0000000000000000^1099"GenerateDSYMFile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app.dSYM36"5B43830E-7774-4D9D-B9A7-002721F8B3B2-
+b76B76BAA-1FE8-48D5-82C3-45E25077BF9A
+
+CLd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController normal i386
+s422876874.537645
+e422876874.711372
+r1
+xLd
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController
+xnormal
+xi386
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/HelloWorld_contentViewController.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/AppDelegate.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/main.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ControlViewController.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/ViewController.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/TableViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"Link /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController166"Ld DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController normal i386b2ba89ca9634b941^ef1cb6ca9634b941^---0#0#1#--2145"Ld DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController normal i386    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator -filelist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/HelloWorld_contentViewController.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/Objects-normal/i386/HelloWorld_contentViewController_dependency_info.dat -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/HelloWorld_contentViewController36"082E9BA7-B45C-4F98-97A4-75E99E81C171-
+b76B76BAA-1FE8-48D5-82C3-45E25077BF9A
+
+CProcessInfoPlistFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist
+s422871113.042221
+e422871113.049451
+r1
+xProcessInfoPlistFile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Process /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist227"ProcessInfoPlistFile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plistf2ec0a498034b941^0b096c498034b941^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist0000000000000000^1467"ProcessInfoPlistFile DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Info.plist -genpkginfo /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/assetcatalog_generated_info.plist -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app/Info.plist36"6F036208-34E2-4208-BFB5-CC15AE7342EA-
+bC8E9BDE5-68E8-460A-8392-4C336194930D
+
+CProcessPCH /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422871109.173009
+e422871111.104991
+r1
+xProcessPCH
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch
+xHelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Precompile HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch356"ProcessPCH DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59a52c458034b941^48e11a478034b941^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch0000000000000000^5270"ProcessPCH DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/HelloWorld_contentViewController-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/HelloWorld_contentViewController.build/Debug-iphonesimulator/HelloWorld_contentViewController.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.dia -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.d -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Intermediates/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-cduznldhavwijnfuyfccwschhnsb/HelloWorld_contentViewController-Prefix.pch.pch36"44D26431-88BA-4F58-9C47-6C8EA6F6A51E-
+bC8E9BDE5-68E8-460A-8392-4C336194930D
+
+CProcessPCH /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Index/PrecompiledHeaders/HelloWorld_contentViewController-Prefix-gxlekwujvskfcoacfryzepydymcg_ast/HelloWorld_contentViewController-Prefix.pch.pch HelloWorld_contentViewController/HelloWorld_contentViewController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/vcj013/Documents/git/xcode-startup/HelloWorld_contentViewController/DerivedData/HelloWorld_contentViewController/Build/Products/Debug-iphonesimulator/HelloWorld_contentViewController.app
+r0
+

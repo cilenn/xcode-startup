@@ -1,0 +1,641 @@
+THelloWorld_iPodLibrary
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary normal i386
+cCopyStringsFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj/InfoPlist.strings HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Images.xcassets
+cProcessInfoPlistFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist
+cGenerateDSYMFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary
+cTouch /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000534266FC00000000000003B4
+t1396860668
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053426708000000000000019E
+t1396860680
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005342670C000000000058E0E0
+t1396860684
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005342670D00000000005B82F0
+t1396860685
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005342670C0000000000446820
+t1396860684
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005342670D00000000003599D0
+t1396860685
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005342670D00000000002FC3B0
+t1396860685
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005342670D000000000004B000
+t1396860685
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005342670E000000000088D8C0
+t1396860686
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000534267100000000000799E30
+t1396860688
+s7970352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000534267110000000000037680
+t1396860689
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053426712000000000048F720
+t1396860690
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053426712000000000013FD70
+t1396860690
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000534267160000000001F1DE10
+t1396860694
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005342672E00000000002BC360
+t1396860718
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005342673C0000000000002338
+t1396860732
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005342673D000000000008D370
+t1396860733
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005342673D0000000000392E20
+t1396860733
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000051B1739B00000000000121D0
+t1370583963
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005342673D0000000000014A80
+t1396860733
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005342673D0000000000033BA0
+t1396860733
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005342673D000000000001CFB0
+t1396860733
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005342673D000000000001B2B0
+t1396860733
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005342673D00000000000C9570
+t1396860733
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005342673D0000000000063280
+t1396860733
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005342673D0000000000008880
+t1396860733
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005342673D0000000000015080
+t1396860733
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005342673D00000000000230F0
+t1396860733
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005342673D000000000000E380
+t1396860733
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005342673D0000000000089380
+t1396860733
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005342673D0000000000017320
+t1396860733
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005342673D0000000000039CD0
+t1396860733
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005342673D000000000000B0B0
+t1396860733
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005342673D0000000000167E80
+t1396860733
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005342673D00000000000106A0
+t1396860733
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005342673D000000000001CE40
+t1396860733
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005342673D00000000000740C0
+t1396860733
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005342673D000000000006CA60
+t1396860733
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005342673D000000000001BAD0
+t1396860733
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005342673D0000000000084A20
+t1396860733
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534267700000000000000ADC
+t1396860784
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053426770000000000000514C
+t1396860784
+s20812
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o
+t1401174094
+s65968
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/HelloWorld_iPodLibrary.LinkFileList
+c000000005384384C00000000000002BA
+t1401174092
+s698
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o
+t1401176350
+s68652
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o
+t1401174094
+s3680
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_dependencies.txt
+t1401174096
+s617
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_generated_info.plist
+t1401174096
+s525
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch
+t1401174094
+s117728
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app
+t1401176350
+s272
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM
+t1401176140
+s102
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary
+t1401176350
+s34152
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist
+t1401174096
+s1026
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/PkgInfo
+t1401174096
+s8
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj/InfoPlist.strings
+t1401174095
+s42
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.h
+c000000005384379C000000000000017B
+t1401173916
+s379
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m
+c000000005384378500000000000008D1
+t1401173893
+s2257
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist
+c000000005384375A000000000000048F
+t1401173850
+s1167
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch
+c000000005384373C0000000000000158
+t1401173820
+s344
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Images.xcassets
+c000000005384373C0000000000000088
+t1401173820
+s136
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.h
+c00000000538437DD00000000000001AB
+t1401173981
+s427
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m
+c000000005384411A0000000000001520
+t1401176346
+s5408
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings
+c000000005384373C000000000000002D
+t1401173820
+s45
+
+N/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m
+c000000005384373C000000000000015C
+t1401173820
+s348
+
+N/usr/lib/libSystem.B.dylib
+c0000000051B17388000000000000D2A0
+t1370583944
+s53920
+
+N/usr/lib/system/libcache.dylib
+c0000000051B1739B0000000000013870
+t1370583963
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000051B173760000000000030250
+t1370583926
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000051B173880000000000017910
+t1370583944
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000051B1739A000000000001A130
+t1370583962
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c0000000051B1739A000000000000C2A0
+t1370583962
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000051B1739A0000000000008CE0
+t1370583962
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c0000000051B1739B000000000001D350
+t1370583963
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c0000000051B173990000000000014F90
+t1370583961
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000051B1739D000000000000D790
+t1370583965
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c0000000051B1739D000000000000C330
+t1370583965
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000051B1739B000000000000A080
+t1370583963
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052281DC000000000001F91C0
+t1378360768
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000051B1739C000000000001BC00
+t1370583964
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000051B17388000000000008B580
+t1370583944
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052725DFB00000000000569B0
+t1383226875
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000051B173880000000000070540
+t1370583944
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000051B173880000000000025620
+t1370583944
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000051B17390000000000000C780
+t1370583952
+s51072
+
+N/usr/lib/system/libunc.dylib
+c0000000051B17394000000000000D430
+t1370583956
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000051B1739B000000000001BAA0
+t1370583963
+s113312
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m
+r0
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m
+r0
+
+CBuild AST from /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3332309e7834b941^abeb309e7834b941^---0#1#1#--18"Check dependencies36"01E16EB6-7BAA-4213-AF9E-5C09A4133485-
+
+CCompileAssetCatalog /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Images.xcassets
+s422866895.125268
+e422866896.602003
+r1
+xCompileAssetCatalog
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/LaunchImage-700-568h@2x.png
+o/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Assets.car
+o/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"CompileAssetCatalog DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app HelloWorld_iPodLibrary/Images.xcassets157"CompileAssetCatalog DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app HelloWorld_iPodLibrary/Images.xcassets6b2920cf6f34b941^321d9ad06f34b941^-645"/* com.apple.actool.compilation-results *//Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/LaunchImage-700-568h@2x.png/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Assets.car/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Images.xcassets/0000000000000000^1528"CompileAssetCatalog DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app HelloWorld_iPodLibrary/Images.xcassets    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Images.xcassets36"86A0C3B3-A0CC-4B08-95D3-D9C404D94459-
+b034987E4-C593-4039-8622-7AF44E95D1DC
+
+CCompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422866894.592680
+e422866894.909036
+r1
+xCompileC
+xDerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.h
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m282"CompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o HelloWorld_iPodLibrary/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59dc97ce6f34b941^ebc5e8ce6f34b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m0000000000000000^4918"CompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o HelloWorld_iPodLibrary/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o36"0F392B41-9EB1-4985-B8A3-7C2EA117652A-
+b034987E4-C593-4039-8622-7AF44E95D1DC
+
+CCompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422869150.194691
+e422869150.355002
+r1
+xCompileC
+xDerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m288"CompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o HelloWorld_iPodLibrary/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0518329e7834b941^54e25a9e7834b941^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m0000000000000000^4936"CompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o HelloWorld_iPodLibrary/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o36"F62A9C96-79B6-48CD-A787-D19F4485BAA7-
+b868DF880-07DA-4178-A2E4-FC59C68E34BA
+
+CCompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422866894.593820
+e422866894.916974
+r1
+xCompileC
+xDerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/AppDelegate.h
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m268"CompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o HelloWorld_iPodLibrary/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb01d98ce6f34b941^adbeeace6f34b941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m0000000000000000^4876"CompileC DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o HelloWorld_iPodLibrary/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator -include /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.dia -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/main.m -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o36"6B82DC66-D385-4595-944B-06508066F1D4-
+b034987E4-C593-4039-8622-7AF44E95D1DC
+
+CCompileStoryboard /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj/InfoPlist.strings HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings
+s422866895.125282
+e422866895.132634
+r1
+xCopyStringsFile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj/InfoPlist.strings
+xHelloWorld_iPodLibrary/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings191"CopyStringsFile DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj/InfoPlist.strings HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings562a20cf6f34b941^7bf521cf6f34b941^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings0000000000000000^775"CopyStringsFile DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj/InfoPlist.strings HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/en.lproj -- HelloWorld_iPodLibrary/en.lproj/InfoPlist.strings36"975CB0FC-95D3-4EEA-9F90-A4BFA5F97765-
+b034987E4-C593-4039-8622-7AF44E95D1DC
+
+CGenerateDSYMFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary
+s422869150.452726
+e422869150.481319
+r1
+xGenerateDSYMFile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Generate /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM242"GenerateDSYMFile DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary26fb739e7834b941^50387b9e7834b941^---0#0#1#-19%DVTDocumentLocation2@185"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM/0000000000000000^969"GenerateDSYMFile DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app.dSYM36"2984C52F-4287-4C4A-BE31-FB34A5335F0E-
+b868DF880-07DA-4178-A2E4-FC59C68E34BA
+
+CLd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary normal i386
+s422869150.366063
+e422869150.438279
+r1
+xLd
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary
+xnormal
+xi386
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/HelloWorld_iPodLibrary.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/ViewController.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/AppDelegate.o
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"Link /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary136"Ld DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary normal i386cccf5d9e7834b941^a034709e7834b941^---0#0#1#--1905"Ld DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary normal i386    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator -filelist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/HelloWorld_iPodLibrary.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/Objects-normal/i386/HelloWorld_iPodLibrary_dependency_info.dat -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/HelloWorld_iPodLibrary36"74E94AC3-657A-4B38-B557-A9EE0CC966E7-
+b868DF880-07DA-4178-A2E4-FC59C68E34BA
+
+CProcessInfoPlistFile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist
+s422866896.610976
+e422866896.618446
+r1
+xProcessInfoPlistFile
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Process /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist187"ProcessInfoPlistFile DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist51849cd06f34b941^43539ed06f34b941^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist0000000000000000^1287"ProcessInfoPlistFile DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Info.plist -genpkginfo /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/assetcatalog_generated_info.plist -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app/Info.plist36"75E12697-E479-46DA-9631-764DB6662CA8-
+b034987E4-C593-4039-8622-7AF44E95D1DC
+
+CProcessPCH /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422866892.740497
+e422866894.582472
+r1
+xProcessPCH
+x/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch
+xHelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Precompile HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch306"ProcessPCH DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraebabecc6f34b941^b01c95ce6f34b941^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch0000000000000000^4730"ProcessPCH DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-generated-files.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-own-target-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-all-target-headers.hmap -iquote /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/HelloWorld_iPodLibrary-project-headers.hmap -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources/i386 -I/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/HelloWorld_iPodLibrary.build/Debug-iphonesimulator/HelloWorld_iPodLibrary.build/DerivedSources -F/Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.dia -MMD -MT dependencies -MF /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.d -c /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch -o /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Intermediates/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-feepzxidzotfbydlrrpdgwednzeh/HelloWorld_iPodLibrary-Prefix.pch.pch36"79360824-5D04-4685-AE70-A10EDBBC63B9-
+b034987E4-C593-4039-8622-7AF44E95D1DC
+
+CProcessPCH /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Index/PrecompiledHeaders/HelloWorld_iPodLibrary-Prefix-azyjpkbsbyvmeebuvngapbynrgml_ast/HelloWorld_iPodLibrary-Prefix.pch.pch HelloWorld_iPodLibrary/HelloWorld_iPodLibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/vcj013/Documents/git/xcode-startup/HelloWorld_iPodLibrary/DerivedData/HelloWorld_iPodLibrary/Build/Products/Debug-iphonesimulator/HelloWorld_iPodLibrary.app
+r0
+
